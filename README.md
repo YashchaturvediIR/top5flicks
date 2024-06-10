@@ -28,7 +28,8 @@ Top5 Flicks aims to provide personalized movie recommendations by analyzing user
 - Movie details and user preferences: [TMDB API](https://www.themoviedb.org/documentation/api)
 
 
-## Model Building
+## Model Building![bg_cinema](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/bf111979-8866-4d15-b550-41d2eb68ef6a)
+
 
 The model is built using collaborative filtering techniques to provide personalized movie recommendations. The Jupyter Notebook `movie.ipynb` contains all the steps for data preprocessing, model training, and evaluation.
 
