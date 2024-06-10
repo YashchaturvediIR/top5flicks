@@ -28,11 +28,26 @@ Top5 Flicks aims to provide personalized movie recommendations by analyzing user
 - Movie details and user preferences: [TMDB API](https://www.themoviedb.org/documentation/api)
 
 
-## Model Building![bg_cinema](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/bf111979-8866-4d15-b550-41d2eb68ef6a)
-
+## Model Building!
 
 The model is built using collaborative filtering techniques to provide personalized movie recommendations. The Jupyter Notebook `movie.ipynb` contains all the steps for data preprocessing, model training, and evaluation.
 
 ## Website Development
 
 The website is developed using the Streamlit library, providing an interactive and user-friendly interface. The main script `app.py` in the `app` directory contains the code for the Streamlit app.
+
+## Project Snapshots
+![Screenshot (41)](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/145db803-dda1-45f9-9ac8-6d8a0a0c5515)
+
+
+![Screenshot (42)](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/785cbb4f-e3e6-4c25-8a51-99e04e488f09)
+
+
+![Screenshot (43)](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/876b900c-a61a-4614-967b-e4943f728443)
+
+
+![Screenshot (45)](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/7013dd14-b89b-4b65-817d-161898576549)
+
+
+![Screenshot (47)](https://github.com/YashchaturvediIR/top5flicks/assets/108249500/afce35b6-5518-412f-855d-3d3de5c5995b)
+
