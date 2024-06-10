@@ -30,7 +30,7 @@ Top5 Flicks aims to provide personalized movie recommendations by analyzing user
 
 ## Model Building!
 
-The model is built using collaborative filtering techniques to provide personalized movie recommendations. The Jupyter Notebook `movie.ipynb` contains all the steps for data preprocessing, model training, and evaluation.
+The model is built using collaborative filtering techniques to provide personalized movie recommendations. The Jupyter Notebook `movie-recommendation-system.ipynb` contains all the steps for data preprocessing, model training, and evaluation.
 
 ## Website Development
 
